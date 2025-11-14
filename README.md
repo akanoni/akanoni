@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm akanoni
+
+I am studying cybersecurity currently on my own. I also go to school to study software development.
 
 <!--
 **akanoni/akanoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
